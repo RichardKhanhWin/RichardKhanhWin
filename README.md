@@ -1,3 +1,3 @@
-Hi, my name is Richard and I am a software developer.
+Hi, my name is Richard.
 
-I am experienced in software system development and familiar with cybersecurity concepts.
+I have experience in software development, system administration, and a bit of cybersecurity.
